@@ -9,6 +9,11 @@
   <img width="500" src="Assets/DiscordTokenProtectorUI.png">
 </p>
 
+### ⚠️ Disclaimer
+**DTP is not affiliated with Discord.**\
+**DTP is in NO way responsible for what can happen on your Discord account.**\
+**Chances of getting terminated using DTP are very low, but please keep in mind that using third-party software is against Discord's TOS.**
+
 This project is still under development! You might face some instability issues!\
 This is in **NO** way a perfect solution against Discord token grabbers.
 But this will protect you against most token grabbers:
@@ -19,12 +24,6 @@ But this will protect you against most token grabbers:
 **Any targeted attack against DiscordTokenProtector can bypass this protection!**
 
 ## [✔️Good practices when using DTP](goodpractice.md)
-
-### ⚠️ Disclaimer
-**DTP is not affiliated with Discord.**\
-**DTP is in NO way responsible for what can happen on your Discord account.**\
-**Chances of getting terminated using DTP are very low, but please keep in mind that using third-party software is against Discord's TOS.**
-
 
 ## Features
 
